@@ -1,0 +1,14 @@
+{
+    "name": "lcd-digits-nodejs",
+    "version": "0.0.0",
+    "description": "lcd",
+    "main": "main.js",
+    "scripts": {
+        "test": "jasmine"
+    },
+    "author": "cxy",
+    "license": "DWTFYWTD",
+    "devDependencies": {
+        "jasmine": "~2.4.1"
+    }
+}
